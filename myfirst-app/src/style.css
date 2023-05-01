@@ -1,0 +1,15 @@
+body 
+{
+    margin: 0;
+    padding: auto;
+    background-color: darkcyan;
+}
+.my-app
+{
+    width: 50%;
+    height: auto;
+    margin: auto;
+    padding: 15px;
+    background-color: aliceblue;
+    margin-top: 5%;
+}
